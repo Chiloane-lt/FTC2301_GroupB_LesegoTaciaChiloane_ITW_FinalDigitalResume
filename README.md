@@ -1,5 +1,5 @@
 
-# Project Title
+# ITW_Final Digital Resume
 
 Final capstone project for the CodeSpace ITW course. Project is aimed at creating a personal resume website using CSS and HTML.
 
