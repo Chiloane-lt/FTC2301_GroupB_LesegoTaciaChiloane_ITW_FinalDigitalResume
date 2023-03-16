@@ -54,6 +54,16 @@ main {
     justify-content: center;
     font-size: 150%;
     text-align: center;
+    background-image: url(/images/iceland-DavidMark.jpg);
+}
+
+.side h1, .side p {
+    color: white;
+}
+
+.side p {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 }
 
 .resume-title {
@@ -83,6 +93,12 @@ main {
 
 .about {
     text-align: center;
+    border: .2rem solid #49E753;
+    padding: 1rem;
+}
+
+.about p {
+    padding-bottom: 3rem;
 }
 
 #about, #education, #skills, #experience, #projects, #contact {
@@ -99,6 +115,11 @@ main {
 
 .education {
     text-align: center;
+}
+
+.qualification {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
 }
 
 
