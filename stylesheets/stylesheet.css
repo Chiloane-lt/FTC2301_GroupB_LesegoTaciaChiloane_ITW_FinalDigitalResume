@@ -209,8 +209,11 @@ input, textarea {
     padding: .5rem;
     border-radius: 1rem;
 }
+.actual-email h4, .actual-email p, .address h4, .address p, .phone h4, .phone p {
+    color: white;
+}
 
-#contact, label, .contact-text h3, .address h4, .address p, .phone h4, .phone p {
+#contact, label, .contact-text h3 {
     color: white;
 }
 
