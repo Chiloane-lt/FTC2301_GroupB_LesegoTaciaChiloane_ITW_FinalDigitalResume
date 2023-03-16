@@ -329,6 +329,10 @@ footer {
         border-style: none;
     }
 
+    .contact {
+        background-image: url(/images/fern-BkrmadtyaKarki-phone.jpg);
+    }
+
     .contact-info {
         display: flex;
         flex-direction: column;
