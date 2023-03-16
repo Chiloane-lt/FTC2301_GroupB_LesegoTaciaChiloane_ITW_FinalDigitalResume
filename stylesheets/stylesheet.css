@@ -156,6 +156,10 @@ main {
     text-align: center;
 }
 
+.programming-langs {
+    padding-bottom: 2rem;
+}
+
 .languages {
     grid-area: languages;
 }
