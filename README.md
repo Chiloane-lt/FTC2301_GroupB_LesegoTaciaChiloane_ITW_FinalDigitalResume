@@ -31,3 +31,5 @@ https://www.figma.com/file/7wiTzwNH2TxKOTT7KABSUN/Capstone-Final?node-id=2%3A3&t
 - [Google Fonts](https://fonts.google.com/specimen/Raleway?query=raleway)
 
 - [Fern Image](https://pixabay.com/photos/fern-leaves-foliage-green-nature-821293/)
+
+- [Aurora Image](https://pixabay.com/photos/iceland-aurora-borealis-2111811/)
