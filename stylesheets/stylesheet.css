@@ -178,6 +178,10 @@ main {
     text-align: center;
 }
 
+.projects-item {
+    margin-bottom: 3rem;
+}
+
 /* Contact */
 
 .contact {
