@@ -54,7 +54,7 @@ main {
     justify-content: center;
     font-size: 150%;
     text-align: center;
-    background-image: url(/images/iceland-DavidMark1.jpg);
+    background-image: url(/iceland-DavidMark1.jpg);
 }
 
 .side h1, .side p {
@@ -190,7 +190,7 @@ main {
 /* Contact */
 
 .contact {
-    background-image: url(/images/fern-BkrmadtyaKarki.jpg);
+    background-image: url(/fern-BkrmadtyaKarki.jpg);
 }
 
 .contact-info {
@@ -337,7 +337,7 @@ footer {
     }
 
     .contact {
-        background-image: url(/images/fern-BkrmadtyaKarki-phone.jpg);
+        background-image: url(/fern-BkrmadtyaKarki-phone.jpg);
     }
 
     .contact-info {
